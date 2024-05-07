@@ -2,32 +2,59 @@
 ### Author: Errikos Kiladis
 
 ## Introduction
-London, a city renowned for its rich history, iconic landmarks, and vibrant culture, stands as a beacon for travelers seeking adventure and discovery. At the heart of this bustling metropolis lies a dynamic accommodation ecosystem, shaped by the emergence of Airbnb. With its diverse range of listings, from quaint flats in historic neighborhoods to modern apartments overlooking the Thames, Airbnb has revolutionized the way visitors experience London.
+Embark on a journey into London's Airbnb market, guided by data. Discover how Airbnb has transformed the city's hospitality scene, offering travelers a diverse range of accommodations. Uncover the factors influencing rental prices, guest satisfaction, and the overall rental landscape, as we delve into the stories behind London's evolving hospitality scene.
 
-In this immersive journey, we delve into the depths of London's Airbnb market, armed with data as our guide. Our quest is to unravel the mysteries concealed within the numbers, shedding light on the intricate web of factors that influence rental prices, guest satisfaction, and the overall rental landscape. Through careful analysis and exploration, we aim to uncover the stories that animate the city's hospitality scene, offering insights into the trends and dynamics that shape the experiences of hosts and guests alike. Join us as we embark on a data-driven odyssey through the heart of London's rental market.
+#### Exploring London's Airbnb Gems: An Interactive Map
+Dive into London's vibrant Airbnb scene with our interactive map of properties. This map offers a convenient way to explore the city's diverse rental options, from cozy studios to luxurious penthouses.
 
+Each point on the map represents a unique Airbnb listing, providing key details like price, review rate, and more. By clicking on a point, you can access additional information and even visit the property's webpage directly.
 
-#### Interactive Map of Properties
-Our interactive map allows users to navigate through London's Airbnb properties effortlessly. Each point on the map represents a listing, providing essential information such as property name, price, price per accommodate, review rate, and URL to visit the property's webpage. The points are color-coded based on the price per accommodation, with lighter shades indicating lower prices and darker shades representing higher prices.
+The map's color-coded system makes it easy to identify affordable options (lighter shades) and premium accommodations (darker shades). This allows you to quickly pinpoint neighborhoods that match your preferences and budget.
+
+Whether you're a budget traveler seeking hidden gems or a luxury seeker looking for upscale stays, our interactive map helps you find the perfect Airbnb for your London adventure. Start exploring now!
+
 
 <iframe src="map_with_20000_listings.html" width="800px" height="600px"></iframe>
 
-#### Choropleth Map of Average Price per Neighborhood
-The choropleth map divides London into neighborhoods, with colors representing the average rental price in each area. Westminster and Kensington and Chelsea emerge as the most expensive neighborhoods, with average prices of £257 and £248, respectively. The high prices in these areas may be attributed to their central locations and proximity to popular attractions.
+#### Invastigating Prices per Neighborhood
+
+Step into the heart of London's Airbnb landscape with our choropleth map showcasing the average rental prices across different neighborhoods. Each hue on the map corresponds to the average price in a specific area, revealing insights into London's diverse rental market.
+
+**Westminster - £257**
+**Kensington and Chelsea - £248**
 
 <iframe src="av_price.html" width="800px" height="600px"></iframe>
 
-####  Choropleth Map of Average Price per Accommodation
-In this visualization, the color scale represents the average price per accommodation in each neighborhood. Westminster, Camden, and Kensington and Chelsea rank as the most expensive areas, with average prices of £72, £70, and £67, respectively. These neighborhoods likely offer a combination of high-end amenities and convenient locations, driving up prices.
+These two neighborhoods stand out as the most expensive, reflecting their prime locations and allure for tourists and locals alike. With their proximity to iconic landmarks and vibrant cultural scenes, it's no wonder they command such high prices.
+
+Explore the map to discover more about London's neighborhoods and their rental dynamics. Whether you're seeking luxury accommodations or budget-friendly options, our map provides valuable insights to guide your London adventure.
+
+####  Price from Different Angles
+Embark on a journey through London's rental landscape with our interactive choropleth map, showcasing the average price per accommodation in different neighborhoods.
+
+**Westminster - £72**
+**Camden - £70**
+**Kensington and Chelsea - £67**
 
 <iframe src="price_per_accom.html" width="800px" height="600px"></iframe>
 
-#### Choropleth Map of Review Scores for Location
-The review scores for location provide insights into the desirability of different neighborhoods. Richmond upon Thames stands out with an impressive average score of 4.87, indicating its popularity among visitors. Despite its high ratings, Richmond upon Thames maintains relatively moderate prices, with an average price of £163 and an average price per accommodation of £49.
+These neighborhoods stand out for their high average prices, suggesting a blend of luxury amenities and prime locations. As hotspots for travelers and locals alike, they offer a unique blend of culture, history, and convenience.
+
+Explore the map to uncover more about London's diverse neighborhoods and their rental dynamics. Whether you're seeking upscale accommodations or budget-friendly options, our map provides valuable insights to guide your London stay.
+
+Now, let's delve deeper into London's rental market by examining the distribution of prices across different neighborhoods. The boxplot visualization provides insights into the variability and spread of rental prices, allowing us to identify areas with both high and low price ranges. Let's explore how prices vary across London's diverse neighborhoods.
+
+![Box Plot](assets/box_plot_Price_per_Accommodate.png)
+
+#### Unveiling Richmond upon Thames: London's Hidden Gem
+The review scores for location reveal which neighborhoods are favored by visitors. Richmond upon Thames shines with an outstanding average score of 4.87, indicating its popularity among guests. Despite its high ratings, Richmond upon Thames maintains relatively moderate prices, with an average price of £163 and an average price per accommodation of £49.
 
 <iframe src="avg_review_location.html" width="800px" height="600px"></iframe>
 
+In our exploration of London's Airbnb landscape, we have identified a hidden gem: Richmond upon Thames. Despite its relatively moderate prices compared to other neighborhoods, Richmond upon Thames stands out with an impressive average review score for location of 4.87. This high rating suggests that visitors find the neighborhood highly desirable, likely due to its unique charm, scenic beauty, and perhaps its proximity to attractions such as Richmond Park and the River Thames. Thus, while other neighborhoods may command higher prices, Richmond upon Thames offers an exceptional experience that captivates visitors and earns glowing reviews.
+
 #### Boxplots: Distribution of Prices per Accommodation and Review Scores by Neighborhood
+
 To further explore the distribution of rental prices and review scores, we present boxplots for each neighborhood. These visualizations offer a comprehensive view of the variability in prices and the satisfaction levels of guests across different areas of London.
 
 [Placeholder for Boxplots: Distribution of Prices per Accommodation and Review Scores by Neighborhood]
@@ -42,7 +69,7 @@ In summary, our analysis sheds light on the dynamic nature of London's Airbnb ma
 
 ![Sentiment Score](assets/sentiment_score.png)
 
-![Box Plot](assets/box_plot_Price_per_Accommodate.png)
+
 
 ## Useful Links
 
