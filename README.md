@@ -45,6 +45,8 @@ These neighborhoods stand out for their high average prices, suggesting a blend 
 
 Explore the map to uncover more about London's diverse neighborhoods and their rental dynamics. Whether you're seeking upscale accommodations or budget-friendly options, our map provides valuable insights to guide your London stay.
 
+####  Price in More Dimensions
+
 Now, let's delve deeper into London's rental market by examining the distribution of prices across different neighborhoods. The boxplot visualization provides insights into the variability and spread of rental prices, allowing us to identify areas with both high and low price ranges. Let's explore how prices vary across London's diverse neighborhoods.
 
 ![Box Plot](assets/box_plot_Price_per_Accommodate.png)
