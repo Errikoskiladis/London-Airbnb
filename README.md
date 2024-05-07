@@ -1,8 +1,6 @@
 # Revealing London's Airbnb Landscape: A Data Journey
 ### Author: Errikos Kiladis
 
-# Unlocking the Secrets of London's Airbnb Market: A Data Story
-
 ## Introduction
 London, a city renowned for its rich history, iconic landmarks, and vibrant culture, stands as a beacon for travelers seeking adventure and discovery. At the heart of this bustling metropolis lies a dynamic accommodation ecosystem, shaped by the emergence of Airbnb. With its diverse range of listings, from quaint flats in historic neighborhoods to modern apartments overlooking the Thames, Airbnb has revolutionized the way visitors experience London.
 
