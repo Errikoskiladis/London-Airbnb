@@ -21,6 +21,7 @@ Whether you're a budget traveler seeking hidden gems or a luxury seeker looking 
 Step into the heart of London's Airbnb landscape with our choropleth map showcasing the average rental prices across different neighborhoods. Each hue on the map corresponds to the average price in a specific area, revealing insights into London's diverse rental market.
 
 **Westminster - £257**
+
 **Kensington and Chelsea - £248**
 
 <iframe src="av_price.html" width="800px" height="600px"></iframe>
@@ -33,7 +34,9 @@ Explore the map to discover more about London's neighborhoods and their rental d
 Embark on a journey through London's rental landscape with our interactive choropleth map, showcasing the average price per accommodation in different neighborhoods.
 
 **Westminster - £72**
+
 **Camden - £70**
+
 **Kensington and Chelsea - £67**
 
 <iframe src="price_per_accom.html" width="800px" height="600px"></iframe>
@@ -53,17 +56,9 @@ The review scores for location reveal which neighborhoods are favored by visitor
 
 In our exploration of London's Airbnb landscape, we have identified a hidden gem: Richmond upon Thames. Despite its relatively moderate prices compared to other neighborhoods, Richmond upon Thames stands out with an impressive average review score for location of 4.87. This high rating suggests that visitors find the neighborhood highly desirable, likely due to its unique charm, scenic beauty, and perhaps its proximity to attractions such as Richmond Park and the River Thames. Thus, while other neighborhoods may command higher prices, Richmond upon Thames offers an exceptional experience that captivates visitors and earns glowing reviews.
 
-#### Boxplots: Distribution of Prices per Accommodation and Review Scores by Neighborhood
 
-To further explore the distribution of rental prices and review scores, we present boxplots for each neighborhood. These visualizations offer a comprehensive view of the variability in prices and the satisfaction levels of guests across different areas of London.
 
-[Placeholder for Boxplots: Distribution of Prices per Accommodation and Review Scores by Neighborhood]
 
-In summary, our analysis sheds light on the dynamic nature of London's Airbnb market, revealing insights into pricing trends, neighborhood desirability, and guest satisfaction. Whether you're a traveler seeking the perfect accommodation or a host looking to optimize your listing, understanding these factors is key to navigating London's rental landscape effectively.
-
-![Calendar Average Price](assets/calendar_average_price.png)
-
-![Calendar Average Price only when there is Availability](assets/calendar_avarage_price_only_availability.png)
 
 ![Calendar Availability](assets/calendar_availability_count.png)
 
