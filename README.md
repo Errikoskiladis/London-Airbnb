@@ -26,7 +26,7 @@ Step into the heart of London's Airbnb landscape with our choropleth map showcas
 
 <iframe src="av_price.html" width="800px" height="600px"></iframe>
 
-These two neighborhoods stand out as the most expensive, reflecting their prime locations and allure for tourists and locals alike. With their proximity to iconic landmarks and vibrant cultural scenes, it's no wonder they command such high prices.
+These two neighborhoods stand out as the most expensive, reflecting their prime locations for tourists and locals alike. With their proximity to iconic landmarks and vibrant cultural scenes, it's no wonder they command such high prices.
 
 Explore the map to discover more about London's neighborhoods and their rental dynamics. Whether you're seeking luxury accommodations or budget-friendly options, our map provides valuable insights to guide your London adventure.
 
