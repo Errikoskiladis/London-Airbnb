@@ -9,6 +9,8 @@ In this immersive journey, we delve into the depths of London's Airbnb market, a
 ## Navigating Through Rental Prices
 One of the most fascinating aspects of London's Airbnb market is the fluctuation of rental prices. From bustling neighborhoods to serene hideaways, we analyze the data to uncover seasonal trends and geographical hotspots where demand is highest.
 
+
+
 ## Availability and Booking Trends
 Availability is key in the fast-paced world of short-term rentals. By analyzing booking trends throughout the year, we uncover peak seasons, off-peak lulls, and the delicate balance between supply and demand.
 
