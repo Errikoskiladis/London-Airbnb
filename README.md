@@ -1,3 +1,5 @@
+# Revealing London's Airbnb Landscape
+
 ## Introduction
 Embark on a journey into London's Airbnb market, guided by data. Discover how Airbnb has transformed the city's hospitality scene, offering travelers a diverse range of accommodations. Uncover the factors influencing rental prices, guest satisfaction, and the overall rental landscape, as we delve into the stories behind London's evolving hospitality scene.
 
